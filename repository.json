@@ -2,10 +2,10 @@
   "name": "duncathan_salt's packages",
   "packages": [
     {
-      "name": "Cave Story Randomizer [Open Mode] Tracker",
+      "name": "Cave Story Randomizer Tracker",
       "author": "duncathan_salt",
       "game_name": "Cave Story Randomizer",
-      "version": "2.0.0.0",
+      "version": "2.0.0.1",
       "flags": [ "map", "pins", "chathud" ],
       "uid": "cavestory_duncathan",
       "link": "https://duncathan.github.io/csr-open-mode-tracker/cavestory_duncathan.zip",
