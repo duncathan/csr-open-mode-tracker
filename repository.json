@@ -19,6 +19,25 @@
           "flags": [ "chathud" ]
         }
       ]
+    },
+    {
+      "name": "Metroid Dread Item Tracker",
+      "author": "duncathan_salt, SkyTheLucario",
+      "game_name": "Metroid Dread",
+      "version": "0.1.0.0",
+      "flags": [],
+      "uid": "dread_duncathan",
+      "link": "https://duncathan.github.io/csr-open-mode-tracker/dread_duncathan.zip",
+      "variants": [
+        {
+          "name": "Progressive Item Tracker",
+          "flags": []
+        },
+        {
+          "name": "Full Item Tracker",
+          "flags": []
+        }
+      ]
     }
   ]
 }
